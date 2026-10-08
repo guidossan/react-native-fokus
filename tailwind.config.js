@@ -10,6 +10,9 @@ module.exports = {
     extend: {
       colors: {
         brand: "#021123",
+        azulRoyal: "#144480",
+        lilas: "#B872FF",
+        azulMedio: "#021123",
       },
       fontFamily: {
         sans: ["Inter"],
